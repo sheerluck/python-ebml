@@ -15,7 +15,7 @@ from setuptools.command.develop import develop
 from setuptools.command.test import test as test_command
 
 setup(
-    name='python-ebml',
+    name='ebml',
     version='3.1415',
     description='Implements well.',
     url='https://b.me',
